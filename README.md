@@ -1,7 +1,7 @@
-### Olá! 👋
+### Olá!!
 
 ###### Sobre o Rodrigo...
-Desenvolvedor de software!
+Concentrei meus estudos pessoais no desenvolvimento Front-End e Mobile adquirindo conhecimento em tecnologias como Javascript e React Native.
 
 ### Detalhes
 
