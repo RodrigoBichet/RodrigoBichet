@@ -9,7 +9,7 @@ Concentrei meus estudos pessoais no desenvolvimento Front-End e Mobile adquirind
 
 ### Projeto Principal
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigobichet&repo=GameBen10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigobichet&repo=GameBen10&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RodrigoBichet/GameBen10))
 
 ### Linguagens utilizadas
 
