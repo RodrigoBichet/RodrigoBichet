@@ -1,6 +1,6 @@
 ## Bem vindo/a ao meu perfil! 😉
 
-###### Sobre o Rodrigo...
+#### Sobre o Rodrigo...
 Concentrei meus estudos profissionais e pessoais no desenvolvimento de jogos e com enfoque para Front-End, adquirindo conhecimento principal em tecnologias como C#, Javascript e React Native.
 
 ### GitHub Stats:
