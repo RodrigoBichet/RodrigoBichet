@@ -5,7 +5,7 @@ Concentrei meus estudos profissionais e pessoais no desenvolvimento de jogos e c
 
 ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoBichet&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
