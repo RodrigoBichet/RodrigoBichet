@@ -14,7 +14,7 @@ Concentrei meus estudos pessoais no desenvolvimento de jogos e com enfoque para 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobichet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobichet&layout=compactcolor=0)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
