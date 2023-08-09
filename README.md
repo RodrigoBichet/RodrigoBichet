@@ -5,7 +5,12 @@ Concentrei meus estudos pessoais no desenvolvimento de jogos e com enfoque para 
 
 ### GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobichet&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoBichet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RodrigoBichet&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ### Projeto Principal
 
@@ -32,14 +37,3 @@ Concentrei meus estudos pessoais no desenvolvimento de jogos e com enfoque para 
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rodrigobichet/)
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoBichet&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBichet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=RodrigoBichet&icon=5&color=0)](https://visitcount.itsvg.in)
