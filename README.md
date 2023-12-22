@@ -10,7 +10,7 @@ Concentrei meus estudos profissionais e pessoais no desenvolvimento de jogos e c
 
 ### Projeto Principal
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBichet&repo=GameBen10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBichet&repo=GameBen10&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RodrigoBichet/GameBen10))
 
 ### Linguagens utilizadas
 
